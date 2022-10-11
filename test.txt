@@ -1,1 +1,2 @@
-New text file added to from the main accounfa-flip-horizontal
+New text file added to from the main branch from the github student account. 
+Added to revise some concepts of push and pull using vs code terminal branch
