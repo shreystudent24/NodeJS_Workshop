@@ -12,5 +12,3 @@ Agenda:
 8. Introduction to Express - What is express?
 9. “Hello World” express server
 10. Mini Project - To Do Application
-
- 
