@@ -11,4 +11,4 @@ Agenda:
 7. HTTP Methods and Responses.
 8. Introduction to Express - What is express?
 9. “Hello World” express server
-10. Mini Project - To Do Application
+10. Mini Project - To Do Application for resume 
